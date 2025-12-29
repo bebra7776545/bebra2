@@ -1,0 +1,130 @@
+=== INSTAGRAM REGISTRATION CAPTURE SUMMARY ===
+
+Timestamp: 2025-12-29 07:26:02.963041
+Total Requests: 107
+Total Responses: 107
+
+=== CRITICAL REQUESTS ===
+
+POST https://www.instagram.com/ajax/qm/?__a=1&__user=0&__comet_req=7&jazoest=2937
+
+POST https://www.instagram.com/ajax/bz?__a=1&__ccg=MODERATE&__comet_req=7&__crn=comet.igweb.PolarisHomeRoute&__d=www&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&__hsi=7589100415467457435&__req=1&__rev=1031502686&__s=pgkoy0%3A4z2ebw%3Ak4ua7z&__spin_b=trunk&__spin_r=1031502686&__spin_t=1766975134&__user=0&dpr=1&jazoest=2937&lsd=AdGeFDqt7z8&ph=C3
+  Data: ------WebKitFormBoundarypupg1IJJ5pgsw4pd
+Content-Disposition: form-data; name="ts"
+
+1766975134153
+------WebKitFormBoundarypupg1IJJ5pgsw4pd
+Content-Disposition: form-data; name="q"
+
+[{"app_id":"
+
+POST https://www.instagram.com/api/graphql
+  Data: av=0&__d=www&__user=0&__a=1&__req=2&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=MODERATE&__rev=1031502686&__s=pgkoy0%3A4z2ebw%3Ak4ua7z&__hsi=7589100415467457435&__dyn=7xeUjG1mxu1syUbFp41twp
+
+POST https://www.instagram.com/ajax/bulk-route-definitions/
+  Data: route_urls[0]=%2F&routing_namespace=igx_www%24a%2487a091182d5bd65bcb043a2888004e09&__d=www&__user=0&__a=1&__req=3&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=MODERATE&__rev=1031502686&__s=p
+
+POST https://www.instagram.com/ajax/bulk-route-definitions/
+  Data: route_urls[0]=%2Flegal%2Fprivacy%2F&route_urls[1]=%2Flegal%2Fterms%2F&route_urls[2]=%2Fexplore%2Flocations%2F&route_urls[3]=%2Fweb%2Flite%2F&route_urls[4]=%2Faccounts%2Fmeta_verified%2F%3Fentrypoint%3
+
+POST https://www.instagram.com/ajax/bulk-route-definitions/
+  Data: route_urls[0]=%2Faccounts%2Fpassword%2Freset%2F&route_urls[1]=%2Faccounts%2Femailsignup%2F&routing_namespace=igx_www%24a%2487a091182d5bd65bcb043a2888004e09&__d=www&__user=0&__a=1&__req=5&__hs=20451.HY
+
+POST https://www.instagram.com/ajax/bz?__a=1&__ccg=MODERATE&__comet_req=7&__crn=comet.igweb.PolarisHomeRoute&__d=www&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&__hsi=7589100415467457435&__req=6&__rev=1031502686&__s=pgkoy0%3A4z2ebw%3Ak4ua7z&__spin_b=trunk&__spin_r=1031502686&__spin_t=1766975134&__user=0&dpr=1&jazoest=2937&lsd=AdGeFDqt7z8&ph=C3
+  Data: ------WebKitFormBoundaryWHyPni1D81VrDYxk
+Content-Disposition: form-data; name="ts"
+
+1766975134638
+------WebKitFormBoundaryWHyPni1D81VrDYxk
+Content-Disposition: form-data; name="q"
+
+[{"app_id":"
+
+POST https://www.instagram.com/api/graphql
+  Data: av=0&__d=www&__user=0&__a=1&__req=7&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=MODERATE&__rev=1031502686&__s=pgkoy0%3A4z2ebw%3Ak4ua7z&__hsi=7589100415467457435&__dyn=7xeUjG1mxu1syUbFp41twp
+
+POST https://www.instagram.com/ajax/bz?__a=1&__ccg=MODERATE&__comet_req=7&__crn=comet.igweb.PolarisHomeRoute&__d=www&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&__hsi=7589100415467457435&__req=8&__rev=1031502686&__s=pgkoy0%3A4z2ebw%3Ak4ua7z&__spin_b=trunk&__spin_r=1031502686&__spin_t=1766975134&__user=0&dpr=1&jazoest=2937&lsd=AdGeFDqt7z8&ph=C3
+
+POST https://www.instagram.com/ajax/bz?__a=1&__ccg=MODERATE&__comet_req=7&__crn=comet.igweb.PolarisHomeRoute&__d=www&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&__hsi=7589100415467457435&__req=9&__rev=1031502686&__s=pgkoy0%3A4z2ebw%3Ak4ua7z&__spin_b=trunk&__spin_r=1031502686&__spin_t=1766975134&__user=0&dpr=1&jazoest=2937&lsd=AdGeFDqt7z8&ph=C3
+
+POST https://www.instagram.com/ajax/qm/?__a=1&__user=0&__comet_req=7&jazoest=2898
+
+POST https://www.instagram.com/ajax/bz?__a=1&__ccg=MODERATE&__comet_req=7&__crn=comet.igweb.PolarisEmailSignupRoute&__d=www&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&__hsi=7589100436766995827&__req=1&__rev=1031502686&__s=pgkoy0%3A4z2ebw%3Agoo6ig&__spin_b=trunk&__spin_r=1031502686&__spin_t=1766975139&__user=0&dpr=1&jazoest=2898&lsd=AdGDaXMAcp8&ph=C3
+  Data: ------WebKitFormBoundaryBnxS8Q3EWWI5dvf2
+Content-Disposition: form-data; name="ts"
+
+1766975138648
+------WebKitFormBoundaryBnxS8Q3EWWI5dvf2
+Content-Disposition: form-data; name="q"
+
+[{"app_id":"
+
+GET https://www.instagram.com/api/v1/web/login_page/
+
+POST https://www.instagram.com/ajax/bz?__a=1&__ccg=MODERATE&__comet_req=7&__crn=comet.igweb.PolarisEmailSignupRoute&__d=www&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&__hsi=7589100436766995827&__req=2&__rev=1031502686&__s=pgkoy0%3A4z2ebw%3Agoo6ig&__spin_b=trunk&__spin_r=1031502686&__spin_t=1766975139&__user=0&dpr=1&jazoest=2898&lsd=AdGDaXMAcp8&ph=C3
+  Data: ------WebKitFormBoundarykMQlVyPNSh9LJLMW
+Content-Disposition: form-data; name="ts"
+
+1766975138690
+------WebKitFormBoundarykMQlVyPNSh9LJLMW
+Content-Disposition: form-data; name="q"
+
+[{"app_id":"
+
+POST https://www.instagram.com/ajax/bulk-route-definitions/
+  Data: route_urls[0]=%2Faccounts%2Femailsignup%2F&routing_namespace=igx_www%24a%2487a091182d5bd65bcb043a2888004e09&__d=www&__user=0&__a=1&__req=3&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=MODERA
+
+POST https://www.instagram.com/ajax/bulk-route-definitions/
+  Data: route_urls[0]=%2Flegal%2Fprivacy%2F&route_urls[1]=%2Flegal%2Fterms%2F&route_urls[2]=%2Fexplore%2Flocations%2F&route_urls[3]=%2Fweb%2Flite%2F&route_urls[4]=%2Faccounts%2Fmeta_verified%2F%3Fentrypoint%3
+
+POST https://www.instagram.com/api/graphql
+  Data: av=0&__d=www&__user=0&__a=1&__req=5&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=MODERATE&__rev=1031502686&__s=pgkoy0%3A4z2ebw%3Agoo6ig&__hsi=7589100436766995827&__dyn=7xeUjG1mxu1syUbFp41twp
+
+POST https://www.instagram.com/api/graphql
+  Data: av=0&__d=www&__user=0&__a=1&__req=6&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=MODERATE&__rev=1031502686&__s=pgkoy0%3A4z2ebw%3Agoo6ig&__hsi=7589100436766995827&__dyn=7xeUjG1mxu1syUbFp41twp
+
+POST https://www.instagram.com/ajax/bulk-route-definitions/
+  Data: route_urls[0]=%2Faccounts%2Flogin%2F%3Fsource%3Dauth_switcher&routing_namespace=igx_www%24a%2487a091182d5bd65bcb043a2888004e09&__d=www&__user=0&__a=1&__req=7&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0
+
+POST https://www.instagram.com/ajax/bz?__a=1&__ccg=MODERATE&__comet_req=7&__crn=comet.igweb.PolarisEmailSignupRoute&__d=www&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&__hsi=7589100436766995827&__req=8&__rev=1031502686&__s=pgkoy0%3A4z2ebw%3Agoo6ig&__spin_b=trunk&__spin_r=1031502686&__spin_t=1766975139&__user=0&dpr=1&jazoest=2898&lsd=AdGDaXMAcp8&ph=C3
+
+POST https://www.instagram.com/ajax/bz?__a=1&__ccg=MODERATE&__comet_req=7&__crn=comet.igweb.PolarisEmailSignupRoute&__d=www&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&__hsi=7589100436766995827&__req=9&__rev=1031502686&__s=pgkoy0%3A4z2ebw%3Agoo6ig&__spin_b=trunk&__spin_r=1031502686&__spin_t=1766975139&__user=0&dpr=1&jazoest=2898&lsd=AdGDaXMAcp8&ph=C3
+
+POST https://www.instagram.com/api/v1/web/accounts/web_create_ajax/attempt/
+  Data: email=rro4740ecq12nhr%40gmail.com&failed_birthday_year_count=%7B%7D&first_name=&username=&opt_into_one_tap=false&use_new_suggested_user_name=true&jazoest=21973
+
+POST https://www.instagram.com/ajax/bz?__a=1&__ccg=MODERATE&__comet_req=7&__crn=comet.igweb.PolarisEmailSignupRoute&__d=www&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&__hsi=7589100436766995827&__req=a&__rev=1031502686&__s=pgkoy0%3A4z2ebw%3Agoo6ig&__spin_b=trunk&__spin_r=1031502686&__spin_t=1766975139&__user=0&dpr=1&jazoest=2898&lsd=AdGDaXMAcp8&ph=C3
+
+POST https://www.instagram.com/api/v1/web/accounts/web_create_ajax/attempt/
+  Data: email=rro4740ecq12nhr%40gmail.com&failed_birthday_year_count=%7B%7D&first_name=Riley987&username=&opt_into_one_tap=false&use_new_suggested_user_name=true&jazoest=21973
+
+POST https://www.instagram.com/ajax/bz?__a=1&__ccg=MODERATE&__comet_req=7&__crn=comet.igweb.PolarisEmailSignupRoute&__d=www&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&__hsi=7589100436766995827&__req=b&__rev=1031502686&__s=pgkoy0%3A4z2ebw%3Agoo6ig&__spin_b=trunk&__spin_r=1031502686&__spin_t=1766975139&__user=0&dpr=1&jazoest=2898&lsd=AdGDaXMAcp8&ph=C3
+
+POST https://www.instagram.com/api/v1/web/accounts/web_create_ajax/attempt/
+  Data: email=rro4740ecq12nhr%40gmail.com&failed_birthday_year_count=%7B%7D&first_name=Riley987&username=7vucakosfgip2dn&opt_into_one_tap=false&use_new_suggested_user_name=true&jazoest=21973
+
+POST https://www.instagram.com/ajax/bz?__a=1&__ccg=MODERATE&__comet_req=7&__crn=comet.igweb.PolarisEmailSignupRoute&__d=www&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&__hsi=7589100436766995827&__req=d&__rev=1031502686&__s=pgkoy0%3A4z2ebw%3Agoo6ig&__spin_b=trunk&__spin_r=1031502686&__spin_t=1766975139&__user=0&dpr=1&jazoest=2898&lsd=AdGDaXMAcp8&ph=C3
+
+POST https://www.instagram.com/api/v1/web/accounts/web_create_ajax/attempt/
+  Data: enc_password=%23PWD_INSTAGRAM_BROWSER%3A10%3A1766975149%3AAbdQADrRyA7a%2FMuV%2Bke8j2rLrrOGdo85CHHtK8HS5GfDDPk1GtXA6h9ToxiJlDYO%2FQeNKFr9Ftw6t4kRSaCnGQp8tAXKRuiNMacefD7olGimToqJto34Ze6YpnDqnpdr%2FPMbSK
+
+POST https://www.instagram.com/ajax/bz?__a=1&__ccg=MODERATE&__comet_req=7&__crn=comet.igweb.PolarisEmailSignupRoute&__d=www&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&__hsi=7589100436766995827&__req=f&__rev=1031502686&__s=pgkoy0%3A4z2ebw%3Agoo6ig&__spin_b=trunk&__spin_r=1031502686&__spin_t=1766975139&__user=0&dpr=1&jazoest=2898&lsd=AdGDaXMAcp8&ph=C3
+
+POST https://www.instagram.com/api/v1/web/consent/check_age_eligibility/
+  Data: day=18&month=11&year=2005&jazoest=21973
+
+POST https://www.instagram.com/api/v1/accounts/send_verify_email/
+  Data: device_id=16vtv521ht8yu267j1pg54xzlx4uaxv2oppfj71t7zc3p17y0mf5&email=rro4740ecq12nhr%40gmail.com&jazoest=21973
+
+POST https://www.instagram.com/ajax/bz?__a=1&__ccg=MODERATE&__comet_req=7&__crn=comet.igweb.PolarisEmailSignupRoute&__d=www&__hs=20451.HYP%3Ainstagram_web_pkg.2.1...0&__hsi=7589100436766995827&__req=g&__rev=1031502686&__s=pgkoy0%3A4z2ebw%3Agoo6ig&__spin_b=trunk&__spin_r=1031502686&__spin_t=1766975139&__user=0&dpr=1&jazoest=2898&lsd=AdGDaXMAcp8&ph=C3
+
+GET https://www.google.com/recaptcha/api.js?hl=uk_UA
+
+GET https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdktRgnAAAAAFQ6icovYI2-masYLFjEFyzQzpix&co=aHR0cHM6Ly93d3cuZmJzYnguY29tOjQ0Mw..&hl=uk&v=7gg7H51Q-naNfhmCP3_R47ho&theme=light&size=normal&anchor-ms=20000&execute-ms=30000&cb=j0z5fvf7n3og
+
+GET https://www.google.com/recaptcha/api2/webworker.js?hl=uk&v=7gg7H51Q-naNfhmCP3_R47ho
+
+GET https://www.gstatic.com/recaptcha/api2/logo_48.png
+
+GET https://www.google.com/recaptcha/api2/bframe?hl=uk&v=7gg7H51Q-naNfhmCP3_R47ho&k=6LdktRgnAAAAAFQ6icovYI2-masYLFjEFyzQzpix&bft=0dAFcWeA4voh_vuM1Sm57021dMcBOIjaXcxCSAepb10-OyENYEnUaP_fkUnNQ8_ZwraKOT6yflWxKOl9OCkrh3QoEsGeaMus-pug
+
